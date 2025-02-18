@@ -1,0 +1,2 @@
+International,45,madurai,chennai,2024-11-20 5:50,2024-11-20 6:50,4,yes,tamil
+Domestic,45,goe,chennai,2024-11-21 05:45,2024-11-21 07:67,6,second,second
